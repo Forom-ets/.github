@@ -1,4 +1,5 @@
-![Alt text](https://media.discordapp.net/attachments/1462545996914364476/1465899736014913668/Discord_Profile325156.png?ex=697cc344&is=697b71c4&hm=ccca9ba3a2427151d06b57dbd6117a319efc117760a6496344e971de076c0a53&=&format=webp&quality=lossless&width=832&height=832)
+![Alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff82748d-96fb-486c-9cf5-d4bf4230705d" />
+)
 
 
 ---
