@@ -133,7 +133,3 @@ Vous êtes libre de partager et d'adapter le matériel, à condition de crédite
 *L'avenir de la navigation de contenu est fini.*
 
 </div>
-
----
-
-Voudrais-tu que je t'aide à rédiger le fichier `CONTRIBUTING.md` mentionné dans ce README pour guider tes futurs développeurs ?
