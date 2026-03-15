@@ -33,7 +33,7 @@ Imaginez lancer un serveur **Minecraft privé** avec vos amis. Mais au lieu de c
 
 1. **Vous possédez les données :** Vous n'utilisez pas notre cloud. Vous installez Forom sur votre propre machine locale (nous recommandons un NVIDIA Jetson).
 2. **L'Ère Privée :** Votre Forom naît sur `localhost`. Il est privé, sur invitation seulement. Vous et vos amis commencez à remplir la grille.
-3. **Le But Ultime (ROM) :** Votre objectif est de survivre à 3 phases de progression rigoureuses. Si vous réussissez, votre serveur débloque **ROM**, une IA locale (système RAG) entraînée *exclusivement* sur vos 10 ans d'archives.
+3. **Le But Ultime (ROM) :** Votre objectif est de survivre à 3 phases de progression rigoureuses. Si vous réussissez, votre serveur débloque **ROM**, une IA locale (système RAG) entraînée *exclusivement* sur vos 1 an d'archives.
 4. **Le Portail Public :** Une fois le rituel final accompli, votre Forom établit un tunnel sécurisé vers notre Lobby Principal. Vous gardez vos données chez vous, mais votre communauté devient visible pour le monde entier.
 
 ---
