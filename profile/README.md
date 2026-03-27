@@ -14,6 +14,17 @@
 
 </div>
 
+## 🧭 Aperçu
+
+**Forom** n’est pas un réseau social. C’est un centre de commandement multijoueur pour les communautés.
+
+Imaginez-vous en train de lancer un **serveur Minecraft** privé avec vos amis, mais au lieu de bâtir des châteaux de blocs, vous construisez une base de connaissances hautement structurée et propulsée par l'IA pour accomplir une mission concrète.
+
+Chaque Forom commence comme une matrice 10x10 privée et sauvage sur une machine locale. À mesure que votre communauté accomplit des quêtes, archive des connaissances et développe son économie, le serveur « monte en niveau ». L’objectif ultime ? Survivre à 3 phases rigoureuses pour réveiller **ROM** — une IA embarquée et hébergée localement (système RAG) entraînée exclusivement sur la mémoire d'un an de votre communauté — et gagner ainsi le droit de connecter votre serveur local au Lobby Public Global.
+
+**Vos données ne nous intéressent pas.** Vous possédez le matériel. Vous détenez les clés. Nous fournissons simplement le moteur.
+<br>
+
 ## 🌐 Le Lobby Forom
 
 Le **Lobby Principal** sert de portail (tracker) pour tous les serveurs Forom publics ayant atteint leur niveau maximum. 
