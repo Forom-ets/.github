@@ -1,172 +1,259 @@
-[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b39a9b2a-257e-4b8a-88e7-d3a5a8342359" />](https://media.discordapp.net/attachments/1462545996914364476/1466560805209112738/Creation_sans_titre.png?ex=697d30af&is=697bdf2f&hm=163115dfd623388929bdefbe81f3071faddebd976aa8dd2820cafc319eb3eacb&=&format=webp&quality=lossless&width=1703&height=958)
+
+
+
 
 <div align="center">
 
-# 🏰 F O R O M 🏰
+  <img width="240" alt="Rubix View Icon" src="https://media.discordapp.net/attachments/1286472457754247199/1490234616139878410/rubix_view_ETS.png?ex=69d350a3&is=69d1ff23&hm=530905c84f1942977105f01bd65b73010dc68d730376e59362d53fbf58c2e7d2&=&format=webp&quality=lossless&width=590&height=590" />
 
-**The Finite Rom Map (FRM) — Reprenez le contrôle de votre mémoire numérique.**
+  <br/>
 
-*Un écosystème 2D open-source, auto-hébergé et gamifié pour structurer la connaissance, entraîner votre propre IA, et sauver vos communautés.*
+  <b>F O R O M &nbsp; É T S</b>
+  <br/>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Le+Jeu+Social;Rejoignez+l'Aventure;Sauvez+les+clubs" alt="Typing SVG" /> 
+  </h1>
+ 
+  Le Réseau Récursif 
+  
+<div align="center">
 
-[Le Lobby Public](https://forom.prodv2.cedille.club/) · [Philosophie](#-la-philosophie-serveur-minecraft) · [Le Projet ÉTS](#-initiative-pilote--%C3%A9ts) · [La ROMAP (Progression)](#-la-romap--progression--ia) · [Matériel](#%EF%B8%8F-mat%C3%A9riel--auto-h%C3%A9bergement)
-
----
+[![Clubs](https://img.shields.io/badge/ÉTS-FFFFFF?style=for-the-badge&color=FFFFFF&labelColor=2b3137)](#sauver-les-clubs)
+[![JEU](https://img.shields.io/badge/JEU-FF0404?style=for-the-badge)](#Jeu)
+[![XYZ](https://img.shields.io/badge/XYZ-000000?style=for-the-badge)](#XYZ)
 
 </div>
 
-## 🧭 Aperçu
+<div align="center">
+  
+  <h1 id="sauver-les-clubs">SAUVER LES CLUBS</h1>
 
-**Forom** n’est pas un réseau social. C’est un centre de commandement multijoueur pour les communautés.
+  <p><b>Mission : Sauver le transfert de connaissance étudiant</b></p>
+  
+  [![🌍Mission](https://img.shields.io/badge/ÉTS-2b3137?style=for-the-badge&color=FFFFFF)](#sauver-les-clubs)
 
-Imaginez-vous en train de lancer un **serveur Minecraft** privé avec vos amis, mais au lieu de bâtir des châteaux de blocs, vous construisez une base de connaissances hautement structurée et propulsée par l'IA pour accomplir une mission concrète.
+</div>
 
-Chaque Forom commence comme une matrice 10x10 privée et sauvage sur une machine locale. À mesure que votre communauté accomplit des quêtes, archive des connaissances et développe son économie, le serveur « monte en niveau ». L’objectif ultime ? Survivre à 3 phases rigoureuses pour réveiller **ROM** — une IA embarquée et hébergée localement (système RAG) entraînée exclusivement sur la mémoire d'un an de votre communauté — et gagner ainsi le droit de connecter votre serveur local au Lobby Public Global.
+<div align="justify">
+  
+  Forom n'est ni une application ni un réseau social traditionnel. C'est un jeu social dont vous pouvez être propriétaire. Nous sommes une initiative open-source portée par une conviction forte : pour l'ÉTS, la perte d'information lors des passations est un problème critique. Il est temps de repenser notre manière d'archiver et de transmettre.
 
-**Vos données ne nous intéressent pas.** Vous possédez le matériel. Vous détenez les clés. Nous fournissons simplement le moteur.
-<br>
+  Pour construire un avenir plus solide pour les clubs étudiants, nous nous concentrons sur la protection de vos espaces. En établissant des communautés fermées (sur invitation), nous garantissons une modération efficace. Cet environnement sécurisé permet aux membres de s'exprimer, de documenter et de collaborer librement, assurant ainsi une véritable construction collective et une rétention d'information sans précédent.
 
-## 🌐 Le Lobby Forom
+  Votre mission ultime est claire : <b>Sauver les clubs</b> en reprenant le contrôle de nos mémoires et de nos données. En documentant vos projets dans Forom, vous bâtissez un héritage direct pour les futurs étudiants.
+  
 
-Le **Lobby Principal** sert de portail (tracker) pour tous les serveurs Forom publics ayant atteint leur niveau maximum. 
-👉 **[Visitez le Lobby : forom.prodv2.cedille.club](https://forom.prodv2.cedille.club/)**
+  <h3 align="center">🧮 La Matrice des Mémos (Forom ÉTS)</h3>
 
-Actuellement, le lobby héberge :
-1. **Le Forom Public :** La porte d'entrée officielle et la documentation de l'écosystème.
-2. **Le Projet Pilote ÉTS :** Un espace sécurisé pour **70 clubs étudiants de l'ÉTS** afin d'archiver leur mémoire à long terme et d'assurer le transfert de connaissances entre les générations.
-
----
-
-## ⛏️ La Philosophie "Serveur Minecraft"
-
-**FOROM n'est pas un réseau social classique.** C'est un centre de commandement multijoueur pour votre communauté. 
-
-Imaginez lancer un serveur **Minecraft privé** avec vos amis. Mais au lieu de construire des châteaux en blocs, vous bâtissez une base de connaissances ultra-structurée pour accomplir une mission réelle. 
-
-1. **Vous possédez les données :** Vous n'utilisez pas notre cloud. Vous installez Forom sur votre propre machine locale (nous recommandons un NVIDIA Jetson).
-2. **L'Ère Privée :** Votre Forom naît sur `localhost`. Il est privé, sur invitation seulement. Vous et vos amis commencez à remplir la grille.
-3. **Le But Ultime (ROM) :** Votre objectif est de survivre à 3 phases de progression rigoureuses. Si vous réussissez, votre serveur débloque **ROM**, une IA locale (système RAG) entraînée *exclusivement* sur vos 1 an d'archives.
-4. **Le Portail Public :** Une fois le rituel final accompli, votre Forom établit un tunnel sécurisé vers notre Lobby Principal. Vous gardez vos données chez vous, mais votre communauté devient visible pour le monde entier.
-
----
-
-## 🧭 Le Moteur de Navigation (La Grille 10x10)
-
-Forom combat le "doom scrolling" infini en proposant une interface finie, spatiale et intentionnelle. 
-La navigation se fait via un **viewport 5x5** propulsé par la physique des ressorts (Framer Motion), permettant d'explorer une grille virtuelle de **10x10**.
-
-Chaque post est placé à une intersection stratégique :
-* **L'Axe Y (Catégories A-J) :** Les Piliers de votre mission (ex: *Stratégie, Opérations, Trésorerie, Gouvernance*).
-* **L'Axe X (Actions 0-9) :** L'état de l'information (ex: *Idée, Quête, SOS, Accompli, Savoir*).
-
-### Les Mémoires & Le Système de Coordonnées (A-J / 0-9)
-Dans cette grille, on ne "poste" pas dans le vide. Le contenu de haute valeur est appelé une **"Mémoire"** et doit être forgé à une intersection précise de la matrice 10x10. Ce système de coordonnées (100 cases) dicte comment l'IA locale (ROM) comprendra le contexte de votre communauté.
-
-La matrice est structurée ainsi :
-* **L'Axe Y (A à J) — Les Piliers :** Représente les domaines de votre mission (ex : *A. Vision, D. Opérations, I. Mémoire, etc.*).
-* **L'Axe X (0 à 9) — Les États d'Action :** Représente le statut de l'information (ex : *0. Idée, 2. Quête, 4. SOS, 8. Savoir, etc.*).
-
-**La Synergie des Coordonnées :**
-Chaque Mémoire possède une adresse unique (ex: **D2**, **I8**) qui lui donne tout son sens :
-* 🎯 **[D. Opérations] + [2. Quête] = D2** : Signale un besoin de main-d'œuvre concret sur le terrain.
-* 🧠 **[I. Mémoire] + [8. Savoir] = I8** : Représente une connaissance absolue et vérifiée. *(C'est cette donnée spécifique qui a la plus grande valeur pour nourrir le système RAG !)*
-
-**La Logique des 3 Stades d'Archivage :**
-Le but du serveur n'est pas simplement de remplir la grille, mais de faire évoluer ces 100 coordonnées à travers **3 Stades** (Phases) pour créer une base de données parfaite :
-1. **Le Stade V1 (Le Brouillon) :** La communauté défriche et remplit les 100 cases pour la première fois.
-2. **Le Stade V2 (L'Itération) :** La difficulté augmente. Les membres doivent relire, corriger et améliorer l'intégralité de la grille.
-3. **Le Stade V3 (Le Canon) :** L'ultime version. C'est cette matrice finale de 100 Mémoires parfaites qui servira de corpus de base pour éveiller et entraîner votre assistant IA (ROM).
-
----
-
-## 🚀 La ROMAP : Progression & IA
-
-Votre serveur ne commence pas avec son assistant IA (ROM). Vous devez le mériter en complétant la **ROMAP**, une évolution obligatoire en 3 phases.
-
-### 🔴 Phase 1 : Les Fondations (V1)
-* **Objectif :** Remplir intégralement la grille de 10x10 avec 100 mémos fondateurs.
-* **Économie :** Chaque quête coûte **2 PX** et rapporte **2 PX**.
-* **Déblocage :** Les 100 mémos sont archivés (V1). Le Forom passe en Phase 2.
-
-### 🟢 Phase 2 : L'Itération (V2)
-* **Objectif :** Récrire, améliorer et itérer sur l'intégralité des 100 mémos pour créer la V2.
-* **Économie (Inflation) :** La valeur double (x2). Les quêtes coûtent **4 PX**. La trésorerie communautaire doit atteindre 1/4 du pouvoir d'achat global.
-* **Déblocage :** La V2 est archivée. La Phase finale commence.
-
-### 🔵 Phase 3 : L'Éveil de ROM (V3)
-* **Objectif :** Forger la version définitive du savoir (V3) et prouver la force de votre communauté.
-* **Économie :** Valeur quadruplée (x4). **8 PX** par quête.
-* **Population Requise :** 9 Super Mods, 25 Mods, 75 Créateurs, et 500 Associés.
-* **Le Rituel :** L'équipe de modération investit 1250 PX, et la communauté investit 1250 PX ensemble.
-* **Récompense :** **ROM s'éveille.** Votre IA locale est entraînée sur vos 300 mémos. Votre serveur devient Public sur le Lobby, et une prime de +5000 PX est injectée dans votre économie.
-
----
-
-## 🎭 Rôles & Gouvernance
-
-Pour rejoindre un Forom, un utilisateur doit choisir un alignement qui dictera son rôle dans l'écosystème :
-
-| Rôle | Couleur | Alignement | Fonction |
-| --- | --- | --- | --- |
-| **Gardien** | 🔴 Rouge | Défense | Fait respecter les règles, maintient la stabilité de la grille. |
-| **Créateur** | 🟡 Jaune | Innovation | Produit le contenu (mémos), résout les quêtes techniques. |
-| **Social** | 🔵 Bleu | Connexion | Gère le moral, accueille les nouveaux, organise les événements. |
-
-*Note : On ne peut pas être invité en tant que Créateur. Il faut accomplir une quête et voir son mémo sélectionné par les Mods pour obtenir ce titre.*
-
----
-
-## ⚙️ Matériel & Auto-Hébergement
-
-Pour garantir une souveraineté totale sur vos **10 ans d'archives**, nous recommandons l'architecture matérielle suivante pour votre serveur :
-
-* **Calcul (Compute) :** Une machine **NVIDIA Jetson** (Nano ou Orin). Crucial pour faire tourner le modèle local RAG (TensorRT/LLM) de votre ROM 24h/24.
-* **Stockage :** Un SSD de **1 To minimum** pour stocker les textes, images et vecteurs d'IA.
-* **Réseau :** Tourne sur `localhost` derrière un pare-feu jusqu'au déblocage de la Phase 3 (où un tunnel inversé est créé vers le Lobby).
-
----
-
-## 🛠️ Stack Technique & Démarrage Dev
-
-FOROM est propulsé par une stack moderne et performante, prête pour les environnements *Edge*.
-
-| Technologie | Rôle |
-| --- | --- |
-| **React 19 & TypeScript** | Architecture des composants et typage strict |
-| **Vite 7** | Build ultra-rapide et optimisation des chunks |
-| **Tailwind CSS 4** | Styling utilitaire et thèmes via variables CSS |
-| **Framer Motion 12** | Moteur physique pour la Sidebar et la Grille 5x5 |
-| **JWT / OAuth2** | Single Sign-On (SSO) décentralisé via le Lobby |
-| **PostgreSQL & Docker** | Base de données locale et déploiement conteneurisé |
-
-### Installation (Développement)
-
-# Cloner le dépôt
-git clone https://github.com/Forom-ets/forom.git
-cd forom
-
-# Se placer sur la branche de développement active
-git checkout vibecoderprofessionel
-
-# Installer les dépendances
-npm install
-
-# Lancer le serveur local
-npm run dev
-
-L'application sera accessible sur http://localhost:5173.
-
-## 🤝 Contribuer & Licence
-
+  
+  <p align="center">Toute l'information est classée grâce à notre matrice 10x10 exclusive aux clubs de l'ÉTS :</p>
+  
 <div align="center">
 
-Forom est un projet Open Source. Forkez le code, modifiez l'économie, créez vos propres grilles et bâtissez votre univers.
+| Clé | Axe Y (Les Districts) | Clé | Axe X (Les Actions / Quêtes) |
+| :---: | :--- | :---: | :--- |
+| **A** | Partenaires | **0** | Idéation |
+| **B** | Culture | **1** | Recherche |
+| **C** | Clubs | **2** | Conception |
+| **D** | Trésorerie | **3** | Opération |
+| **E** | Atelier | **4** | Obstacle |
+| **F** | Projets | **5** | Déploiement |
+| **G** | Événements | **6** | Tutoriel |
+| **H** | Rayonnement | **7** | Bilan |
+| **I** | Gouvernance | **8** | **Gabarit (Canon RAG Data)** |
+| **J** | Héritage | **9** | Passation |
 
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="CC BY-SA 4.0" /></a>
+</div>
 
-Ce projet est distribué sous la licence Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Vous êtes libre de partager et d'adapter le matériel, à condition de créditer Forom et de partager vos modifications sous la même licence.
+</div>
 
-Développé avec ❤️ pour préserver la mémoire à long terme de l'humanité.
+<br>
 
-L'avenir de la navigation de contenu est fini.
+---
 
+<div align="center">
+  
+  <h1 id="Jeu">RÈGLES ET RÔLES (LE JEU)</h1>
+
+  <p><b>Sauvez les clubs, un pixel à la fois.</b></p>
+  
+  [![🎮Jeu](https://img.shields.io/badge/Jeu-2b3137?style=for-the-badge&color=FF0404)](https://forom.etsmtl.ca/)
+
+</div>
+
+<br>
+
+<p align="center">
+  <i><b>Note Importante :</b> Des S-Mods jusqu'aux Associés, l'entièreté de la hiérarchie est strictement composée d'étudiants de l'ÉTS.</i>
+</p>
+
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">👑 Leadership & Gestion</th>
+    <th width="50%" align="center">🛠️ Opérations & Base Active</th>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        🌟 <b>1. Le Créateur (1)</b><br>
+        <i>Larry Laroche + Club étudiant Cédille + ÉTS</i>
+      </p>
+      <ul>
+        <li><b>Genèse :</b> Définit la mission initiale & les règles du R.O.M.</li>
+        <li><b>Nomination :</b> Sélectionne les 9 S-mods originaux.</li>
+        <li><b>Pouvoir absolu :</b> Autorité pour bannir/rétrograder.</li>
+      </ul>
+      
+  <br>
+
+   <p>
+        👑 <b>2. S-Mods (Max 9)</b><br>
+        <i>Membres du CA Forom ÉTS</i><br>
+        (Actuellement : Larry + 2 devs. <b>6 places restantes</b> : 3 sociaux, 2 créatifs et 1 dev lead).
+      </p>
+      <ul>
+        <li><b>Structure :</b> Modifient les catégories et règles.</li>
+        <li><b>Vote (5/9) :</b> Jugent les plaintes officielles.</li>
+        <li><b>Économie :</b> Capital de 500px, vue globale des portefeuilles.</li>
+        <li><b>Invitations :</b> Recrutent S-mods, Mods, Associés.</li>
+        <li><b>Restriction :</b> Ne peuvent pas accomplir de quêtes.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        🛡️ <b>3. Mods (50 à 70)</b><br>
+        <i>Capitaines des clubs</i>
+      </p>
+      <ul>
+        <li><b>Guildes :</b> Gèrent leurs membres, choisissent le nom/couleur de leur club.</li>
+        <li><b>Opérations :</b> Gèrent les quêtes, modèrent les mémos.</li>
+        <li><b>Économie :</b> Vue globale, votent pour débloquer les coffres SOS.</li>
+        <li><b>Risque :</b> Une rétrogradation dissout instantanément leur équipe.</li>
+      </ul>
+      
+  <br>
+
+  <p>
+        🛠️ <b>4. Éditeurs (100 à 150)</b><br>
+        <i>Chefs d'équipe dans les clubs</i>
+      </p>
+      <ul>
+        <li><b>Pass VIP :</b> Priorité de modération & paiement.</li>
+        <li><b>Actions :</b> Rédigent les mémos, invitent les Associés.</li>
+        <li><b>Économie :</b> Gagnent 2px par mémo validé.</li>
+      </ul>
+      
+  <br>
+
+  <p>
+        👥 <b>5. Associés (1000 à 1200)</b><br>
+        <i>Membres des clubs</i>
+      </p>
+      <ul>
+        <li><b>Actions :</b> Sélectionnent les quêtes et rédigent la documentation.</li>
+        <li><b>Économie :</b> Gagnent 2px par mémo. Portefeuille personnel.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">⚖️ Le Système de Justice</th>
+    <th width="50%" align="center">🪙 L'Économie Interne (Le Pixel)</th>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        Un système judiciaire autonome pour maintenir l'équilibre au sein de l'ÉTS.
+      </p>
+      <ul>
+        <li>📝 <b>Plainte :</b> Tout membre peut déposer une plainte officielle contre un leader.</li>
+        <li>🪙 <b>Le Coût :</b> Coûte <b>6 px</b> à l'accusateur pour éviter le spam.</li>
+        <li>🏛️ <b>Tribunal :</b> Les <b>9 S-mods</b> (CA) reçoivent et votent sur la plainte (5/9 requis).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        La monnaie virtuelle locale qui fait tourner les clubs : <b>Le Pixel</b>.
+      </p>
+      <ul>
+        <li>📝 <b>Mémos (Gagner) :</b> Nécessite 1 Quête, 400 mots, 3 sources, et 2 formats médias. (+2 px)</li>
+        <li>🎯 <b>Quêtes (Dépenser) :</b> Créer une quête coûte des pixels, mais rapporte <b>10 pixels</b> lors de sa complétion.</li>
+        <li>📈 <b>Progression :</b> Les niveaux gagnés (de Citoyen Lvl 0 à Âme Lvl 100) sont transférables hors du serveur ÉTS.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  
+  <h1 id="XYZ">L'ÉCOSYSTÈME PUBLIC</h1>
+
+  <p><b>Moteur A.B.C, Modèle R.O.M et Jeu X.Y.Z</b></p>
+  
+  [![XYZ](https://img.shields.io/badge/XYZ-2b3137?style=for-the-badge&color=000000)](https://forom.xyz/)
+
+</div>
+
+<div align="justify">
+  L'instance Forom de l'ÉTS n'est qu'une application de l'écosystème global XYZ, conçu pour redonner le pouvoir aux communautés locales. Voici comment les trois piliers technologiques s'articulent en arrière-plan :
+  <br><br>
+  <ul>
+    <li>⚙️ <b>Le Moteur A.B.C :</b> C'est le centre de commandement (framework open-source). Il structure la donnée à travers notre matrice de districts et d'actions (votre base de données 10x10) et dicte la hiérarchie pour maintenir l'ordre et bloquer le spam (robots).</li>
+    <li>🎮 <b>Le Jeu X.Y.Z :</b> La surcouche sociale et économique (les Pixels, les Quêtes, les Rôles) qui vient gamifier le fastidieux processus de documentation et de transfert de connaissances dans les clubs étudiants.</li>
+    <li>🧠 <b>Le Modèle R.O.M :</b> L'objectif final ! Une fois que la communauté a franchi toutes les itérations, complété l'archive et documenté ses succès, l'intelligence artificielle locale du serveur (le RAG System) s'éveille. Elle est entraînée exclusivement sur les données du Forom de l'ÉTS et devient l'allié incontournable pour les cohortes suivantes.</li>
+  </ul>
+  
+  <p align="center">Pour en apprendre plus sur l'infrastructure open-source globale, le modèle R.O.M ou le framework, visitez : <b><a href="https://forom.xyz/">forom.xyz</a></b></p>
+
+</div>
+
+---
+
+<div align="center">
+  <h1 id="Starter-kit">Kit de Démarrage : Lancez votre propre FOROM</h1>
+  <p><b>Prêt à bâtir votre bastion d'intelligence ?</b></p>
+
+  [![🧰Kit Starter](https://img.shields.io/badge/🧰_Kit-Starter-2b3137?style=for-the-badge)](#Starter-kit)
+</div>
+
+<div align="justify">
+  <p>Créer un serveur local FOROM est aussi intuitif que de lancer un monde privé sur Minecraft. En hébergeant votre propre instance, vous assumez le rôle ultime de <b>Créateur</b> et devenez le gardien d'un moteur RAG entièrement souverain qui tourne directement sur votre machine.</p>
+  <p>Pour initialiser le réacteur central, une seule commande suffira :</p>
+</div>
+
+<pre><code class="language-bash">sudo coming soon ;) </code></pre>
+
+<div align="justify">
+  <p>Une fois le portail ouvert, générez vos clés de sécurité et invitez vos collègues de l'ÉTS à rejoindre les rangs. Ensemble, complétez des quêtes et archivez des mémos dans la matrice pour générer des Pixels et grimper jusqu'au prestigieux <b>Niveau 100 (Âme)</b>.</p>
+  <p>C'est ici que la mission prend tout son sens : chaque connexion, chaque itération et chaque effort collaboratif renforce l'IA locale de votre communauté étudiante. Préparez votre équipe pour le rituel final, déclenchez l'éveil du <b>R.O.M.</b>, et reprenez enfin le contrôle absolu sur le transfert de connaissances !</p>
+</div>
+
+<div align="center">
+  <h2>Contribution &amp; Licence</h2>
+  
+  <p>
+    <b>FOROM est un projet Open Source.</b><br>
+    Bifurquez le code, ajustez l'économie, créez vos propres grilles matricielles et bâtissez votre propre univers.
+  </p>
+  
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+    <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="CC BY-SA 4.0" />
+  </a>
+
+  <p>
+    Ce projet est distribué sous la licence <b>Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</b>.<br>
+    Vous êtes libre de partager et d'adapter le matériel, à condition de donner le crédit approprié à FOROM<br>
+    et de distribuer vos contributions sous la même licence.
+  </p>
+
+  <p>
+    <i>Construit pixel par pixel pour préserver la mémoire étudiante à long terme.</i><br><br>
+    <b>Le temps de chercher l'information est révolu. Il est temps de bâtir.</b>
+  </p>
 </div>
